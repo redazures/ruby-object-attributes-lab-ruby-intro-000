@@ -22,5 +22,5 @@ class Dog
 end
 
 lass=Dog.new
-lass.name
-lass.breed
+lass.name=("bob")
+lass.breed=("golden")
