@@ -22,8 +22,8 @@ class Person
 end
 
 ben=ben.new
-puts lass.name
-puts lass.breed
+puts ben.name
+puts ben.job
 lass.name=("bob")
 lass.breed=("golden")
 
