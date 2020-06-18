@@ -24,8 +24,11 @@ end
 ben=ben.new
 puts ben.name
 puts ben.job
-lass.name=("bob")
-lass.breed=("golden")
+puts ben.name=("bob")
+puts ben.job=("golden Monkey")
+
+lass.name
+lass.breed
 
 puts lass.name
 puts lass.breed
