@@ -26,3 +26,6 @@ puts lass.name
 puts lass.breed
 lass.name=("bob")
 lass.breed=("golden")
+
+puts lass.name
+puts lass.breed
