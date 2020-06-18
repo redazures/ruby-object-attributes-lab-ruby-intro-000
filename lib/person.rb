@@ -21,7 +21,7 @@ class Person
   end
 end
 
-lass=Dog.new
+ben=ben.new
 puts lass.name
 puts lass.breed
 lass.name=("bob")
