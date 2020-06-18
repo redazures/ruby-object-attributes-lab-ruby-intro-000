@@ -22,5 +22,8 @@ class Dog
 end
 
 lass=Dog.new
+puts lass.name
+puts lass.breed
 lass.name=("bob")
 lass.breed=("golden")
+
