@@ -20,3 +20,5 @@ class Dog
     @breed=breed
   end
 end
+
+lass=Dog.new
