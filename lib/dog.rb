@@ -22,3 +22,5 @@ class Dog
 end
 
 lass=Dog.new
+lass.name
+lass.breed
