@@ -1,4 +1,4 @@
-class Dog
+class Person
 
   def init(name)
     @name=name
@@ -12,11 +12,11 @@ class Dog
     @name=newname
   end
 
-  def breed
-    @breed
+  def job
+    @job
   end
 
-  def breed=(breed)
+  def breed=(job)
     @breed=breed
   end
 end
