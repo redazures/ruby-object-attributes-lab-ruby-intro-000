@@ -21,7 +21,7 @@ class Person
   end
 end
 
-ben=ben.new
+ben=Person.new
 puts ben.name
 puts ben.job
 puts ben.name=("bob")
