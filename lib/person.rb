@@ -24,6 +24,7 @@ end
 ben=Person.new
 puts ben.name
 puts ben.job
-
+ben.name=("bob")
+ben.job=("golden Monkey")
 puts ben.name
 puts ben.job
