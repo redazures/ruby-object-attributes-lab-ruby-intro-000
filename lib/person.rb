@@ -26,9 +26,5 @@ puts ben.name
 puts ben.job
 puts ben.name=("bob")
 puts ben.job=("golden Monkey")
-
-lass.name
-lass.breed
-
-puts lass.name
-puts lass.breed
+puts ben.name
+puts ben.job
